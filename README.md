@@ -44,7 +44,7 @@ As a builder, you're now part of a revolutionary decentralized protocol. This gu
 
 ---
 
-## 🚀 Next Steps
+## 🔥 Next Steps
 1. Join our [Discord Community](https://discord.com/invite/pbt9m98wnU)
 2. Follow the [Hello World Tutorial](https://tools.docs.iex.ec/overview/helloWorld/0-hello)
 3. Explore [Demo Page](https://demo.iex.ec/)
