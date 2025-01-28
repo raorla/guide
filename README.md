@@ -45,9 +45,9 @@ As a builder, you're now part of a revolutionary decentralized protocol. This gu
 ---
 
 ## 🚀 Next Steps
-1. Join our [Discord Community](https://discord.gg/iexec)
-2. Follow the [Quickstart Tutorial](https://docs.iex.ec/quickstart)
-3. Explore [Example Applications](https://github.com/iExecBlockchainComputing?q=example)
+1. Join our [Discord Community](https://discord.com/invite/pbt9m98wnU)
+2. Follow the [Hello World Tutorial](https://tools.docs.iex.ec/overview/helloWorld/0-hello)
+3. Explore [Demo Page](https://demo.iex.ec/)
 4. Connect with other builders in the forum
 
 ---
