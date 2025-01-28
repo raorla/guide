@@ -30,7 +30,7 @@ As a builder, you're now part of a revolutionary decentralized protocol. This gu
 - [Join Discord Server](https://discord.com/invite/pbt9m98wnU)
 
 #### Other Channels
-- [Telegram Support](https://t.me/iexectech)
+- [Telegram Support](https://t.me/iExecSupportBot)
 - [WebChat Support](https://builder.iex.ec/)
 - [Support Jira Portal](https://support.iex.ec/)
 
