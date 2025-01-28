@@ -36,8 +36,8 @@ As a builder, you're now part of a revolutionary decentralized protocol. This gu
 
 **Office Hours**: 9:00 - 18:00 CET
 
-### Community Resources
-- [Developer Forum](https://community.iex.ec/)
+### Tools support
+
 - **Content Sharing**:
   - Videos: [Loom](https://www.loom.com/)
   - Code Snippets: [Hastebin](https://hastebin.com/)
