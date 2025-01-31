@@ -62,7 +62,7 @@ As a builder, you're now part of a revolutionary decentralized protocol. This gu
 
 ## 📧 Contact Information
 - **Support Email**: [support@iex.ec](mailto:support@iex.ec)
-- **Contact EMail**: [contact@iex.ec](mailto:contact@iex.ec)
+- **Contact Email**: [contact@iex.ec](mailto:contact@iex.ec)
 - **Monetization Consultation**: [Calendly](https://calendly.com/tom-iexec/30min)
 
 ---
