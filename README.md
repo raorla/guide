@@ -67,4 +67,4 @@ As a builder, you're now part of a revolutionary decentralized protocol. This gu
 
 ---
 
-> Made with ❤️ by the iExec Team | [Edit this guide](https://github.com/your-repo-path)
+
