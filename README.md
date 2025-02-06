@@ -25,9 +25,10 @@ As a builder, you're now part of a revolutionary decentralized protocol. This gu
 
 ### Technical Support
 #### Discord
+- [iExec Discord Server](https://discord.com/invite/pbt9m98wnU)
 - [`🎫┃support-ticket`](https://discord.gg/3JAXJpbKjj) - Open a private ticket (bot will respond first)
 - [`🔧┃support-questions`](https://discord.gg/g6HZtsq6U5) - Public channel (mention `@iExec Support` for help)
-- [iExec Discord Server](https://discord.com/invite/pbt9m98wnU)
+
 
 #### Other Channels
 - [Telegram Support](https://t.me/iExecSupportBot)
