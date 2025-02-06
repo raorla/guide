@@ -1,4 +1,4 @@
-# Welcome to iExec Builder Guide! 🚀
+# iExec Builder Guide! 🚀
 
 As a builder, you're now part of a revolutionary decentralized protocol. This guide will help you get started and make the most of iExec's resources.
 
