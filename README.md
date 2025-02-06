@@ -11,7 +11,7 @@ As a builder, you're now part of a revolutionary decentralized protocol. This gu
 - **Developer Tools**: [iExec Tools Documentation](https://tools.docs.iex.ec/)
 - **Protocol Details**: [iExec Technical Documentation](https://protocol.docs.iex.ec/)
 
----
+
 
 ## 🔗 Important Links
 - [iExec Explorer](https://explorer.iex.ec/)
@@ -19,7 +19,7 @@ As a builder, you're now part of a revolutionary decentralized protocol. This gu
 - [iExec Demo Applications](https://demo.iex.ec/)
 - [iExec GitHub Organization](https://github.com/iExecBlockchainComputing)
 
----
+
 
 ## 🛠 Support & Community
 
@@ -42,14 +42,14 @@ As a builder, you're now part of a revolutionary decentralized protocol. This gu
   - Videos: [Loom](https://www.loom.com/)
   - Code Snippets: [Hastebin](https://hastebin.com/)
 
----
+
 
 ## 🔥 Next Steps
 1. Join our [Discord Community](https://discord.com/invite/pbt9m98wnU)
 2. Follow the [Hello World Tutorial](https://tools.docs.iex.ec/overview/helloWorld/0-hello)
 3. Explore [Demo Page](https://demo.iex.ec/)
 
----
+
 
 ## 📄 Deliverables
 - Project documentation explaining your integration
@@ -57,14 +57,14 @@ As a builder, you're now part of a revolutionary decentralized protocol. This gu
 - Feedback on developer experience
 - Link to GitHub project repository
 
----
+
 
 ## 📧 Contact Information
 - **Support Email**: [support@iex.ec](mailto:support@iex.ec)
 - **Contact Email**: [contact@iex.ec](mailto:contact@iex.ec)
 - **Monetization Consultation**: [Calendly](https://calendly.com/tom-iexec/30min)
 
----
+
 ## ⭐ Social Links
 
 - [Twitter](https://twitter.com/iEx_ec)
