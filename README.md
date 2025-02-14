@@ -5,7 +5,7 @@
 ## 📚 Essential Resources
 
 ### Documentation Hub
-- **Main Documentation**: [iExec Documentation HomePage](https://docs.iex.ec/)
+- **Main Documentation**: [iExec Documentation](https://docs.iex.ec/)
 - **Developer Tools**: [iExec Tools Documentation](https://tools.docs.iex.ec/)
 - **Protocol Details**: [iExec Technical Documentation](https://protocol.docs.iex.ec/)
 
