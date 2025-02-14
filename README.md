@@ -14,7 +14,7 @@
 ## 🔗 Important Links
 - [iExec Explorer](https://explorer.iex.ec/)
 - [Bellecour Blockchain Explorer](https://blockscout-bellecour.iex.ec/)
-- [iExec Demo Applications](https://demo.iex.ec/)
+- [iExec Demo Page](https://demo.iex.ec/)
 - [iExec GitHub Organization](https://github.com/iExecBlockchainComputing)
 
 
