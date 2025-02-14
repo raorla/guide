@@ -7,7 +7,7 @@
 ### Documentation Hub
 - **Main Documentation**: [iExec Documentation](https://docs.iex.ec/)
 - **Developer Tools**: [iExec Tools Documentation](https://tools.docs.iex.ec/)
-- **Protocol Details**: [iExec Technical Documentation](https://protocol.docs.iex.ec/)
+- **Protocol Details**: [iExec Protocol Documentation](https://protocol.docs.iex.ec/)
 
 
 
