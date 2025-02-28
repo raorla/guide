@@ -15,6 +15,7 @@
 - [iExec Explorer](https://explorer.iex.ec/)
 - [Bellecour Blockchain Explorer](https://blockscout-bellecour.iex.ec/)
 - [iExec Demo Page](https://demo.iex.ec/)
+- [iExec Confidential AI](https://www.iex.ec/confidential-ai)
 - [iExec GitHub Organization](https://github.com/iExecBlockchainComputing)
 
 
